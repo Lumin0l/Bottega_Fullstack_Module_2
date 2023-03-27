@@ -13,7 +13,10 @@ print(header)
 print(subheader)
 print(_)
 
-
+"""
+Note that it will only partition on the first instance the element happens.
+If you have "Python: an introduction and Python: continuation" it will only break up the first ': '
+"""
 
 
 
