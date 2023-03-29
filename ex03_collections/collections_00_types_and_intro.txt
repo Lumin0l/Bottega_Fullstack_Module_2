@@ -1,0 +1,10 @@
+In other languages there is stuff that works like arrays, but in python there is more.
+
+There is:
+Lists: very much like an array.
+
+Dictionaries: not so much, more akin to a struct. It has 'keys' that stores values. More like a double array where the first holds the key to see what's stored in the second.
+
+Tuple: very similar to the list, or the array. It has a couple of differences that we'll work on later.
+
+
